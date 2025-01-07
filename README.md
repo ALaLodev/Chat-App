@@ -2,6 +2,14 @@
 
 **ChatApp** es una aplicación de chat moderna diseñada para Android, creada para ofrecer una experiencia de mensajería instantánea fluida y confiable. Ideal tanto para proyectos personales como para un estudio profesional de las arquitecturas móviles, **ChatApp** combina un diseño limpio, una arquitectura sólida y tecnologías modernas.
 
+<p align="center">  
+  <img src="/screenshots/Screenshot_1.png" alt="Main Screen" width="15%" style="margin-right: 40dp">  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 10 non-breaking spaces -->  
+  <img src="/screenshots/Screenshot_2.png" alt="Main Screen" width="15%" style="margin-right: 40dp">  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 10 non-breaking spaces -->  
+  <img src="/screenshots/Screenshot_3.png" alt="Detail Screen" width="15%">  
+</p>  
+
 ---
 
 ## 🌟 Principales Características
@@ -37,23 +45,3 @@ ChatApp emplea el patrón **MVVM (Model-View-ViewModel)**, ampliamente reconocid
   - **DataBinding** para simplificar la interacción entre las vistas y los datos.
 - **Kotlin**: Lenguaje de programación principal que garantiza un código conciso y seguro.
 
----
-
-## 📂 Organización del Proyecto
-
-La aplicación está cuidadosamente organizada en capas para mantener una clara separación de responsabilidades:
-
-- **Data Layer**: Maneja las interacciones con la base de datos y las redes.
-- **Domain Layer**: Contiene la lógica de negocio principal a través de casos de uso.
-- **UI Layer**: Maneja la presentación y las interacciones del usuario.
-
-### Estructura General
-
-```plaintext
-com.alalodev.chatapp
-├── data        // Lógica de red y base de datos
-├── domain      // Casos de uso y modelos de negocio
-├── ui          // Fragmentos, vistas y adaptadores
-├── di          // Configuración de Dagger Hilt
-├── ChatApp.kt  // Configuración inicial de la aplicación
-└── MainActivity.kt // Actividad principal
