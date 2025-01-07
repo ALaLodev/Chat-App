@@ -3,11 +3,11 @@
 **ChatApp** es una aplicación de chat moderna diseñada para Android, creada para ofrecer una experiencia de mensajería instantánea fluida y confiable. Ideal tanto para proyectos personales como para un estudio profesional de las arquitecturas móviles, **ChatApp** combina un diseño limpio, una arquitectura sólida y tecnologías modernas.
 
 <p align="center">  
-  <img src="/screenshots/Screenshot_1.png" alt="Main Screen" width="15%" style="margin-right: 40dp">  
+  <img src="/screenshots/Screenshot_3.png" alt="Main Screen" width="20%" style="margin-right: 40dp">  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 10 non-breaking spaces -->  
-  <img src="/screenshots/Screenshot_2.png" alt="Main Screen" width="15%" style="margin-right: 40dp">  
+  <img src="/screenshots/Screenshot_2.png" alt="Main Screen" width="20%" style="margin-right: 40dp">  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 10 non-breaking spaces -->  
-  <img src="/screenshots/Screenshot_3.png" alt="Detail Screen" width="15%">  
+  <img src="/screenshots/Screenshot_1.png" alt="Detail Screen" width="20%">  
 </p>  
 
 ---
