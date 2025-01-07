@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="hour_date_color">#C0C0C0</color>
+    <color name="card_me_background">#774df2</color>
+    <color name="card_other_background">#eef1f6</color>
+    <color name="message_me_color">#FFFFFF</color>
+    <color name="title">#4A90E2</color>
+    <color name="background">#FFFFFF</color>
+    <color name="buble_background">#F5F5F5</color>
+    <color name="buble_send_background">#7ED321</color>
+    <color name="primary_text">#4A4A4A</color>
+</resources>
+    <!--
+    Azul Claro (#4A90E2): Como color principal para barras superiores, encabezados o botones destacados. Transmite confianza y profesionalismo.
+
+    Blanco (#FFFFFF): Para fondos principales y espacios en blanco, lo que aporta claridad y limpieza.
+
+    Gris Suave (#F5F5F5): Para burbujas de texto recibidas o elementos secundarios, añadiendo un contraste ligero.
+
+    Verde Pastel (#7ED321): Para burbujas de texto enviadas o indicadores de mensajes nuevos, ofreciendo un toque amigable y fresco.
+
+    Negro Grisáceo (#4A4A4A): Para texto principal, asegurando una buena legibilidad sin ser demasiado pesado visualmente. -->
