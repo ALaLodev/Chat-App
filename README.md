@@ -1,7 +1,7 @@
 
 # 📱 ChatApp - The Easiest Way to Connect in Real-Time
 
-**ChatApp** is a modern chat application designed for Android, created to offer a seamless and reliable instant messaging experience. Perfect for personal projects or a professional study of mobile architectures, **ChatApp** combines a clean design, solid architecture, and modern technologies.
+Tic Tac Toe is a modern Android application that offers the classic Tic Tac Toe game experience in real-time between two players. Using advanced technologies such as Jetpack Compose, MVVM, Dagger Hilt for dependency injection, and Firebase Realtime Database, this app allows users to play against each other regardless of distance.
 
 <p align="center">  
   <img src="/screenshots/Screenshot_3.png" alt="Main Screen" width="20%" style="margin-right: 40dp">  
